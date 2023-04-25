@@ -1,3 +1,3 @@
-When you throw an instance of your custom exception, 
+when you throw an instance of your custom exception, 
 you can pass a message string to the constructor to 
 provide a more detailed error message
