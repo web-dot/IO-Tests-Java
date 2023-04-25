@@ -107,6 +107,6 @@ public class IOPgms {
 		System.out.println("Enter a path");
 		String path = sc.nextLine();
 		//wordSort(path);
-		countOccuranceOfWord(path, "an");
+		countOccuranceOfWord(path, "the");
 	}
 }
