@@ -34,6 +34,7 @@ public class IOPgms {
 	 * */
 	public static void wordSort(String path) {
 		if(path == null) {
+			
 			throw new IllegalArgumentException();
 		}
 		File f = new File(path);
